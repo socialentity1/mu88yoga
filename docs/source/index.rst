@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+MU88 – SÂN CHƠI CÁ CƯỢC THẾ HỆ MỚI, CHẤT LƯỢNG CAO - mu88.yoga
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Mu88 <https://mu88.yoga/>`_ là một nhà cái cá cược hợp pháp, nổi bật với dịch vụ và sản phẩm đạt chất lượng cao. Tên gọi "Mu88" mang ý nghĩa chiến thắng và may mắn, với con số 8 biểu trưng cho sự thành công. Mu88 chú trọng đến trải nghiệm người dùng, với đội ngũ hỗ trợ 5 sao chuyên nghiệp. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Các sản phẩm game đổi thưởng của Mu88 được hợp tác với những thương hiệu game uy tín quốc tế, đảm bảo tính công bằng và minh bạch. Ngoài ra, Mu88 còn nổi bật với các chương trình khuyến mãi đa dạng và giá trị cao như thưởng chào mừng, cứu trợ xổ số siêu tốc, và phần thưởng hàng tuần cho cược thể thao.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 24b Đ. số 8, Bình Hưng Hoà A, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0994101030. 
 
-.. toctree::
+Email: info@mu88.yoga. 
 
-   usage
-   api
+Website: https://mu88.yoga/
+
+#mu88 #trangchumu88 #dangkymu88 #nhacaimu88 #linkmu88 
